@@ -45,7 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on HackerRank, Leetcode & GeeksForGeeks and read about latest upgrading technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-shivansh1912-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shivansh-srivastava19)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shivansh1912-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shivansh-srivastava19)
 
 ---
 
