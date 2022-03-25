@@ -1,9 +1,9 @@
 <!--### Hi there 👋-->
 
-<!--
-**th3qui85ly/th3qui85ly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--**th3qui85ly/th3qui85ly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -27,8 +27,7 @@ Here are some ideas to get you started:
   </div>
   <img src="https://komarev.com/ghpvc/?username=th3qui85ly&style=flat-square&color=blue" alt=""/>
 <a href="https://github.com/th3qui85ly?tab=followers"><img src="https://img.shields.io/github/followers/th3qui85ly?label=Followers&style=social" alt="GitHub Badge"></a>
-
-  <h1>
+  <h1 color="blue">
     Hey, I'm Shivansh Srivastava
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
