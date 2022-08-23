@@ -40,7 +40,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lucknow, India. Keen enthusiast of computer science since schooling, love exploring tech funs and new things! 👀
-- :telescope: I’m learning Full Stack Web Development from Masai School.
+- :telescope: Serving as Software Engineer in tech based startup.
 
 - :seedling: Exploring Technical Content & Web Techs.
 
